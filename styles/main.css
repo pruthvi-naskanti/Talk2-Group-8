@@ -1,13 +1,10 @@
 
 h1{
     color:blue;
+    font-size: smaller;
    
 }
-#bgrtwo{
-    background-color: rgba(250, 255, 255, 0.918); 
-    text-align: center; 
-    height: 400px;   
-}
+
 
 header{
     text-align: center;
@@ -16,13 +13,14 @@ header{
 footer{
     background-color: white;
     color:blue;
+    font-size: 30px;
     height: 85px;
     text-align:center 
 }
 
 #c1{
     width: 26%;
-    height: 250px;
+    height: 240px;
     background: lightgray;
     box-align:center;
     margin-left:auto;
@@ -33,7 +31,7 @@ footer{
 
 #c2{
     width: 26%;
-    height: 250px;
+    height: 240px;
     background:blue;
     box-align:center;
     margin-left:auto;
